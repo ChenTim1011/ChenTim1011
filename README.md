@@ -1,2 +1,1 @@
-"# ChenTim1011" 
-"# ChenTim1011" 
+# Hello there! My name is Tim Chen. 👋
