@@ -8,11 +8,6 @@
   </ul>
 
 
-<ul align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ltkv562bhp242zwygpkx6kby6a&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</ul>
-
 
 
 <h2>  About me </h2>
