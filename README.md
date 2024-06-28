@@ -8,9 +8,18 @@
   </ul>
 
 
+<ul align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ltkv562bhp242zwygpkx6kby6a&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ltkv562bhp242zwygpkx6kby6a&redirect=true)
+  
+
+
+</ul>
+
+
 
 <h2>  About me </h2>
- <img align="right" width="400" alt="Shimarin" src="https://github.com/ChenTim1011/ChenTim1011/assets/136954078/013e5c85-9981-41f4-ae16-af8c553e7fae"/>
+ <img align="right" width="400" alt="Shimarin" src="https://github.com/ChenTim1011/ChenTim1011/assets/136954078/2fe69e0e-28e1-47f0-96f7-e2067ca85e31"/>
  
 - ⭐ &nbsp; I have an unending desire to learn new knowledge.
 - 🔭 &nbsp; I have served as a TA for C and Python.
@@ -19,6 +28,7 @@
 - 📧 &nbsp; Email me! [My email](110208059@g.nccu.edu.tw)(I'll reply to you as soon as possible)
   
 </div>
+
 
 
 
