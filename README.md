@@ -31,7 +31,7 @@
 
 <summary><h2 style="display: inline-block">Backend</h2></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi)](https://skillicons.dev)
 
 <summary><h2 style="display: inline-block">Database</h2></summary>
 
