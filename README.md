@@ -27,7 +27,7 @@
 
 <summary><h2 style="display: inline-block">Frontend</h2></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 <summary><h2 style="display: inline-block">Backend</h2></summary>
 
