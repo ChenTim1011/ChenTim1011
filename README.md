@@ -4,8 +4,12 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Tim Chen</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Tim Chen </h1></summary>
+    
   </ul>
+
+  
+
 
 
 
@@ -15,7 +19,7 @@
  
 - ⭐ &nbsp; I have an unending desire to learn new knowledge.
 - 🔭 &nbsp; I have served as a TA for C and Python.
-- 🌱 &nbsp; I’m currently learning some operating system knowledge.
+- 🌱 &nbsp; If you want to know more about me. [My learning record](https://drive.google.com/file/d/1yQ4nlrzmgn3RP8WMnE7rGMSuu_S0ZHQA/view?usp=sharing)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tim-chen-64ba5622a/)
 - 📧 &nbsp; Email me! [My email](110208059@g.nccu.edu.tw)(I'll reply to you as soon as possible)
   
