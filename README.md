@@ -19,7 +19,7 @@
  
 - ⭐ &nbsp; I have an unending desire to learn new knowledge.
 - 🔭 &nbsp; I have served as a TA for C and Python.
-- 🌱 &nbsp; If you want to know more about me. [My learning record](https://drive.google.com/file/d/1yQ4nlrzmgn3RP8WMnE7rGMSuu_S0ZHQA/view?usp=sharing)
+- 🌱 &nbsp; If you want to know more about me. [My learning record](https://drive.google.com/file/d/1lSsDnEshpMH-47RDNfcbFSWqDJ9vruex/view?usp=sharing)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/tim-chen-64ba5622a/)
 - 📧 &nbsp; Email me! [My email](110208059@g.nccu.edu.tw)(I'll reply to you as soon as possible)
   
@@ -35,11 +35,11 @@
 
 <summary><h2 style="display: inline-block">Backend</h2></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi,nginx)](https://skillicons.dev)
 
 <summary><h2 style="display: inline-block">Database</h2></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
 <summary><h2 style="display: inline-block">Programing Language</h2></summary>
 
