@@ -35,7 +35,7 @@
 
 <summary><h2 style="display: inline-block">Backend</h2></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,fastapi,nginx)](https://skillicons.dev)
 
 <summary><h2 style="display: inline-block">Database</h2></summary>
 
@@ -43,4 +43,4 @@
 
 <summary><h2 style="display: inline-block">Programing Language</h2></summary>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,python)](https://skillicons.dev)
